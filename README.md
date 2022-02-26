@@ -1,6 +1,6 @@
 # Arduino-Bluetooth-Car
 
-# Created by Terry Tran and Raphael Juco
+Created by Terry Tran and Raphael Juco
 
 The "Final_Bluetooth_Master" file is the code for the master Arduino (Arduino Mega2560) that takes in user input via the Serial monitor
 and sends commands to the slave Arduino (Arduino Uno). If there is data that is sent from the slave to the master
